@@ -2,7 +2,7 @@
 
 ![Design preview for the Conference ticket generator coding challenge](./preview.jpg)
 
-
+YOUTUBE EXPLAINATION:https://youtu.be/BJZXtzEvoXY
 
 https://para17sat.github.io/Frontend-Mentor-Conference-Ticket-Generator/
 
